@@ -54,10 +54,10 @@ h2 {
 
 /*////hover////*/
 
-header {
+header a{
   color: #98ada6;
 }
 
-header hover{
+header a:hover{
 	color: #6f7f7a;
 }
